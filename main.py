@@ -1,5 +1,5 @@
 
-from Alarm_Clock import AlarmClock
+from AlarmClock import AlarmClock
 
 my_alarm_clock = AlarmClock(False) 
 my_alarm_clock.set_current_time()   #REMEMBER THE ()!!!!!!!!!!!!
